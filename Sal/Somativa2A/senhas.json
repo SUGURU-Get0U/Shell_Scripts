@@ -1,0 +1,14 @@
+{
+    "senhas": {
+        "alice123": "0dfc2e96470998a9fa54f19ed058c0bf",
+        "marcus_zenin": "7306ae24d4ff662e32b3ef56db2f1773",
+        "john123": "025165ed50a4530f8518440e55d7c781",
+        "marcus_micro": "edafe2c1146cd04fc9b8d965bbb38bfb"
+    },
+    "salts": {
+        "alice123": "8915yQD3BQlskkx/nvf00Q==",
+        "marcus_zenin": "iFOvCP6UADsn3wwkP2A6EA==",
+        "john123": "etWO/FqKBmvJnjuX/AIrvw==",
+        "marcus_micro": "SNLP1Sw5bGBLYS6r1K7/ZA=="
+    }
+}
