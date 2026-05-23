@@ -13,7 +13,7 @@ ALICE = ('127.0.0.1', 9999)
 
 # Após completar os códigos de ALICE e BOB altere ativar_MiTM para True para fazer o ataque de REPETIÇÃO (REPLAY)
 # -- Quando ativar o MiTM, você deve executar os programas nessa ordem: CHARLES, ALICE e BOB por último.
-ativar_MiTM = False
+ativar_MiTM = True
 
 if ativar_MiTM:
     print('Este cenário está usando MiTM, o cliente está falando com um servidor falso')
